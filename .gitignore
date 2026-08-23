@@ -1,0 +1,6 @@
+.env
+# Hugging Face cache
+/hf_cache/
+
+# Raw Open-SWE-Traces dataset
+/Data Preparation/dataset/open_swe_traces/

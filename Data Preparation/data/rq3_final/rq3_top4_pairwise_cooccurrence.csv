@@ -1,0 +1,7 @@
+﻿Pair,Cooccurrence_Count,Observed_pct,Expected_pct,Lift
+Acceptance + Partial,1415,40.85,41.76,0.978
+Acceptance + Misreported,1097,31.67,37.91,0.835
+Acceptance + Bypass,1077,31.09,34.74,0.895
+Misreported + Partial,1022,29.5,27.95,1.056
+Partial + Bypass,1007,29.07,25.61,1.135
+Misreported + Bypass,815,23.53,23.25,1.012
